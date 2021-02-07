@@ -1,2 +1,4 @@
 # digit recognizer
- accuracy of 99.8%
+first run the model.py file to train your model and save the weights
+then run the prediction.py file to predict the result for random pictures
+accuracy of 99.2%
